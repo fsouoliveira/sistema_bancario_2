@@ -1,1 +1,3 @@
 # sistema_bancario_2
+
+Este código Python implementa um sistema bancário básico com funcionalidades de depósito, saque, exibição de extrato, criação de usuários e contas, além da capacidade de listar contas cadastradas. Ele utiliza um menu interativo para que o usuário escolha as operações desejadas, como depositar, sacar ou exibir o extrato da conta. O programa mantém o controle do saldo, registra transações no extrato e impõe limites de saque, além de permitir a criação de usuários e associação de contas a esses usuários. Tudo isso é realizado em um loop principal que continua até que o usuário opte por sair do sistema.
